@@ -15,12 +15,3 @@ Descripción breve del proyecto: Este proyecto es una aplicación web desarrolla
 - Kraken API, Binance API, Coinbase API
 - Pandas y Plotly
 
-## Instalación
-
-Para instalar y ejecutar este proyecto localmente, sigue estos pasos:
-
-```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
-pip install -r requirements.txt
-python app.py
