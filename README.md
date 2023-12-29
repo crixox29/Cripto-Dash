@@ -1,0 +1,27 @@
+# Nombre del Proyecto de Criptomonedas
+
+Descripción breve del proyecto: Este proyecto es una aplicación web desarrollada en Python con Dash, destinada a visualizar en tiempo real datos financieros de criptomonedas. Incorpora datos de múltiples fuentes como Kraken, Binance, y Coinbase, y permite a los usuarios realizar análisis técnicos con varios indicadores.
+
+## Características
+
+- **Integración de API**: Datos en tiempo real de Kraken, Binance y Coinbase.
+- **Análisis Técnico**: Indicadores como Media Móvil y Oscilador Estocástico.
+- **Interfaz de Usuario Interactiva**: Desarrollada con Dash y Bootstrap.
+- **Visualización de Datos**: Gráficos interactivos de precios y volúmenes de criptomonedas.
+
+## Tecnologías Utilizadas
+
+- Python
+- Dash y Dash Bootstrap Components
+- Kraken API, Binance API, Coinbase API
+- Pandas y Plotly
+
+## Instalación
+
+Para instalar y ejecutar este proyecto localmente, sigue estos pasos:
+
+```bash
+git clone https://github.com/tu-usuario/tu-repositorio.git
+cd tu-repositorio
+pip install -r requirements.txt
+python app.py
