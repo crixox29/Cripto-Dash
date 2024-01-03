@@ -1,10 +1,7 @@
-# Dash Default Template: MyDashApp
-
-Created on 2023-12-29 19:52:28.976036
-
-Welcome to your [Plotly Dash](https://plotly.com/dash/) App! This is a template for your MyDashApp app.
-
-See the [Dash Documentation](https://dash.plotly.com/introduction) for more information on how to get your app up and running.
+# Dash: 
+This repository has been made with Dash, you can access directly to a link generated or run 
+the app and navigate to the local port :8050. 
+Enjoy the visualization, and incorporate new indicators as you desire to the template
 
 ## Running the App
 
